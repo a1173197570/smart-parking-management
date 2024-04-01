@@ -33,7 +33,6 @@ JDK1.8、Maven、Mysql、IntelliJ IDEA、payCloud
 ![输入图片说明](img/image5.png)
 ![输入图片说明](img/image6.png)
 ![输入图片说明](img/image7.png)
-![输入图片说明](img/image8.png)
 
 ### 联系我
  可以帮忙有偿部署、技术咨询、毕设、课设定制等等，欢迎骚扰 vx：xtb365
