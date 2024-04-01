@@ -3,35 +3,37 @@
 #### 介绍
 停车场管理系统，车位管理系统，基于 SpringBoot + Vue 的智能停车场管理系统，号牌识别，车辆管理，角色管理、系统管理、账号管理等等，可以用来当作毕业设计或者课程设计。
 
-#### 软件架构
-软件架构说明
+#### 基础环境
+JDK1.8、Maven、Mysql、IntelliJ IDEA、payCloud
 
+#### 功能介绍
 
-#### 安装教程
+系统管理：角色管理、接口管理、系统菜单、全局配置
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+账号管理：用户管理、合作单位
 
-#### 使用说明
+系统监控：监控大屏、日志监控
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+财务管理：订单列表
 
-#### 参与贡献
+停车记录：停车记录
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+车辆管理：车辆管理
 
+车牌识别：车牌识别
 
-#### 特技
+停车场管理：停车场管理
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 截图
+![输入图片说明](img/image.png)
+![输入图片说明](img/image1.png)
+![输入图片说明](img/image2.png)
+![输入图片说明](img/image3.png)
+![输入图片说明](img/image4.png)
+![输入图片说明](img/image5.png)
+![输入图片说明](img/image6.png)
+![输入图片说明](img/image7.png)
+![输入图片说明](img/image8.png)
+
+### 联系我
+ 可以帮忙有偿部署、技术咨询、毕设、课设定制等等，欢迎骚扰
